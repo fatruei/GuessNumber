@@ -3,11 +3,11 @@
 
 <h3 align="left">這是我第一個模仿作品 GuessNumber猜數字遊戲</h3>
 <h3 align="left">裡面用到的function包含</h3>
-<h4 align="left">inputNumber()// 使用者點擊後把文字放進TextView並且不重覆輸入</h4>
-<h4 align="left">back()//把輸入錯誤的值刪除</h4>
-<h4 align="left">clear()//清除全部以輸入的值</h4>
-<h4 align="left">send()//送出結果並與答案判斷</h4>
-<h4 align="left">replay()//重開一局</h4>
+<h4 align="left">inputNumber()&nbsp;&nbsp;&nbsp;&nbsp;// 使用者點擊後把文字放進TextView並且不重覆輸入</h4>
+<h4 align="left">back()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//把輸入錯誤的值刪除</h4>
+<h4 align="left">clear()&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//清除全部以輸入的值</h4>
+<h4 align="left">send()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//送出結果並與答案判斷</h4>
+<h4 align="left">replay()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//重開一局</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
